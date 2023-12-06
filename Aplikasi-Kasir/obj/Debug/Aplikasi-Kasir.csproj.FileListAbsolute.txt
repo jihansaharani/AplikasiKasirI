@@ -1,0 +1,14 @@
+C:\Users\ADMIN\source\repos\Aplikasi-Kasir\Aplikasi-Kasir\bin\Debug\Aplikasi-Kasir.exe.config
+C:\Users\ADMIN\source\repos\Aplikasi-Kasir\Aplikasi-Kasir\bin\Debug\Aplikasi-Kasir.exe
+C:\Users\ADMIN\source\repos\Aplikasi-Kasir\Aplikasi-Kasir\bin\Debug\Aplikasi-Kasir.pdb
+C:\Users\ADMIN\source\repos\Aplikasi-Kasir\Aplikasi-Kasir\obj\Debug\Aplikasi-Kasir.csproj.AssemblyReference.cache
+C:\Users\ADMIN\source\repos\Aplikasi-Kasir\Aplikasi-Kasir\obj\Debug\Aplikasi_Kasir.FormLogin.resources
+C:\Users\ADMIN\source\repos\Aplikasi-Kasir\Aplikasi-Kasir\obj\Debug\Aplikasi_Kasir.FormMenuUtama.resources
+C:\Users\ADMIN\source\repos\Aplikasi-Kasir\Aplikasi-Kasir\obj\Debug\Aplikasi_Kasir.Properties.Resources.resources
+C:\Users\ADMIN\source\repos\Aplikasi-Kasir\Aplikasi-Kasir\obj\Debug\Aplikasi-Kasir.csproj.GenerateResource.cache
+C:\Users\ADMIN\source\repos\Aplikasi-Kasir\Aplikasi-Kasir\obj\Debug\Aplikasi-Kasir.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\source\repos\Aplikasi-Kasir\Aplikasi-Kasir\obj\Debug\Aplikasi-Kasir.exe
+C:\Users\ADMIN\source\repos\Aplikasi-Kasir\Aplikasi-Kasir\obj\Debug\Aplikasi-Kasir.pdb
+C:\Users\ADMIN\source\repos\Aplikasi-Kasir\Aplikasi-Kasir\obj\Debug\Aplikasi_Kasir.FormMasterKasir.resources
+C:\Users\ADMIN\source\repos\Aplikasi-Kasir\Aplikasi-Kasir\obj\Debug\Aplikasi_Kasir.FormMasterBarang.resources
+C:\Users\ADMIN\source\repos\Aplikasi-Kasir\Aplikasi-Kasir\obj\Debug\Aplikasi_Kasir.FormTransJual.resources
